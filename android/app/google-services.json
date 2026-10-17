@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "282827813787",
+    "firebase_url": "https://smart-store-7d83e-default-rtdb.firebaseio.com",
+    "project_id": "smart-store-7d83e",
+    "storage_bucket": "smart-store-7d83e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282827813787:android:f317b823bf54f27ebe273e",
+        "android_client_info": {
+          "package_name": "com.example.smart_store_console"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZS6pHahUisqp1PlttPNlGQyzRLaLIl3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282827813787:android:f12cea0efe9c53c4be273e",
+        "android_client_info": {
+          "package_name": "com.example.smartstore_console"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZS6pHahUisqp1PlttPNlGQyzRLaLIl3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282827813787:android:248b18d3789d1120be273e",
+        "android_client_info": {
+          "package_name": "com.smartstore.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZS6pHahUisqp1PlttPNlGQyzRLaLIl3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
